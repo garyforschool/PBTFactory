@@ -1,0 +1,1 @@
+{"name": "validate_identifier", "signature": "def validate_identifier(identifier: Union[str, collections.UserString], allow_underscore: bool = True) -> None", "filepath": "flutils/validators.py", "package": "flutils.validators", "classname": "global", "startline": 11, "endline": 41}

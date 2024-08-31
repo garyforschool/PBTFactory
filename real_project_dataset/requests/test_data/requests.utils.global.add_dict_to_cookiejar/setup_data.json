@@ -1,0 +1,1 @@
+{"name": "add_dict_to_cookiejar", "signature": "def add_dict_to_cookiejar(cj, cookie_dict)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 277, "endline": 278}

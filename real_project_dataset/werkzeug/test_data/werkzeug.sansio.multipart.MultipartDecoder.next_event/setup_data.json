@@ -1,0 +1,1 @@
+{"name": "next_event", "signature": "def next_event(self) -> 'Event'", "filepath": "werkzeug/sansio/multipart.py", "package": "werkzeug.sansio.multipart", "classname": "MultipartDecoder", "startline": 118, "endline": 176}

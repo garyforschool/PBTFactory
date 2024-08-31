@@ -1,0 +1,1 @@
+{"name": "unquote_etag", "signature": "def unquote_etag(etag: 'str | None') -> 'tuple[str, bool] | tuple[None, None]'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 493, "endline": 503}

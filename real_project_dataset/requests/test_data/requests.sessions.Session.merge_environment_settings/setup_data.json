@@ -1,0 +1,1 @@
+{"name": "merge_environment_settings", "signature": "def merge_environment_settings(self, url, proxies, stream, verify, cert)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 398, "endline": 414}

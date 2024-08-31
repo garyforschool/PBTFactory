@@ -1,0 +1,1 @@
+{"name": "parse_accept_header", "signature": "def parse_accept_header(value: 'str | None', cls: 'type[_TAnyAccept] | None' = None) -> '_TAnyAccept'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 294, "endline": 316}

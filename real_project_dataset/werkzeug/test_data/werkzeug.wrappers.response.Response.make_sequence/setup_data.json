@@ -1,0 +1,1 @@
+{"name": "make_sequence", "signature": "def make_sequence(self) -> 'None'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 147, "endline": 152}

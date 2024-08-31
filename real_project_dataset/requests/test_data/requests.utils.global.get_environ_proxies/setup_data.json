@@ -1,0 +1,1 @@
+{"name": "get_environ_proxies", "signature": "def get_environ_proxies(url, no_proxy=None)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 492, "endline": 496}

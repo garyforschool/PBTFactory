@@ -1,0 +1,1 @@
+{"name": "parse_from_environ", "signature": "def parse_from_environ(self, environ: 'WSGIEnvironment') -> 't_parse_result'", "filepath": "werkzeug/formparser.py", "package": "werkzeug.formparser", "classname": "FormDataParser", "startline": 105, "endline": 111}

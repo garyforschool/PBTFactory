@@ -1,0 +1,1 @@
+{"name": "get_all", "signature": "def get_all(self, name)", "filepath": "werkzeug/datastructures/headers.py", "package": "werkzeug.datastructures.headers", "classname": "Headers", "startline": 70, "endline": 71}

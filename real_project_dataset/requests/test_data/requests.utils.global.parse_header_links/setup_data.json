@@ -1,0 +1,1 @@
+{"name": "parse_header_links", "signature": "def parse_header_links(value)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 547, "endline": 566}

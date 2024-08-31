@@ -1,0 +1,1 @@
+{"name": "head", "signature": "def head(url, **kwargs)", "filepath": "requests/api.py", "package": "requests.api", "classname": "global", "startline": 27, "endline": 29}

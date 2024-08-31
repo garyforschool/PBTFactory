@@ -1,0 +1,1 @@
+{"name": "set_data", "signature": "def set_data(self, value: 'bytes | str') -> 'None'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 112, "endline": 117}

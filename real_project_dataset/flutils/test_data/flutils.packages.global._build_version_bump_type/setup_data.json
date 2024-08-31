@@ -1,0 +1,1 @@
+{"name": "_build_version_bump_type", "signature": "def _build_version_bump_type(position_positive: int, pre_release: Optional[str]) -> int", "filepath": "flutils/packages.py", "package": "flutils.packages", "classname": "global", "startline": 101, "endline": 132}

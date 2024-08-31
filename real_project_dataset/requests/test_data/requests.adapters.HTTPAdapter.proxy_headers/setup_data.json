@@ -1,0 +1,1 @@
+{"name": "proxy_headers", "signature": "def proxy_headers(self, proxy)", "filepath": "requests/adapters.py", "package": "requests.adapters", "classname": "HTTPAdapter", "startline": 330, "endline": 335}

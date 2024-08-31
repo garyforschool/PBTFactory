@@ -1,0 +1,1 @@
+{"name": "is_resource_modified", "signature": "def is_resource_modified(environ: 'WSGIEnvironment', etag: 'str | None' = None, data: 'bytes | None' = None, last_modified: 'datetime | str | None' = None, ignore_if_range: 'bool' = True) -> 'bool'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 587, "endline": 604}

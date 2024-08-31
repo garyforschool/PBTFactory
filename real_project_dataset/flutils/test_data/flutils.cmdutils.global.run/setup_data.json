@@ -1,0 +1,1 @@
+{"name": "run", "signature": "def run(command: Sequence, stdout: Optional[IO] = None, stderr: Optional[IO] = None, columns: int = 80, lines: int = 24, force_dimensions: bool = False, interactive: bool = False, **kwargs: Any) -> int", "filepath": "flutils/cmdutils.py", "package": "flutils.cmdutils", "classname": "global", "startline": 32, "endline": 106}

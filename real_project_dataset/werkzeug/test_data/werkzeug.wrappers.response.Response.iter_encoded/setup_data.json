@@ -1,0 +1,1 @@
+{"name": "iter_encoded", "signature": "def iter_encoded(self) -> 't.Iterator[bytes]'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 154, "endline": 155}

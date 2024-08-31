@@ -1,0 +1,1 @@
+{"name": "get_path_info", "signature": "def get_path_info(environ: 'WSGIEnvironment') -> 'str'", "filepath": "werkzeug/wsgi.py", "package": "werkzeug.wsgi", "classname": "global", "startline": 90, "endline": 92}

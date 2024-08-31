@@ -1,0 +1,1 @@
+{"name": "fromisoformat", "signature": "def fromisoformat(cls, date_string)", "startline": 1363, "endline": 1380, "package": "datetime_datetime", "classname": "datetime"}

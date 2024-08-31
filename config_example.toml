@@ -1,0 +1,30 @@
+verbose = true  # default is false. Enables or disables verbose logging.
+max_hypothesis_examples = 500  # default is 500. The maximum number of hypothesis examples to generate.
+max_strategy_retry = 3 # default is 3. The maximum number of retries allowed for creating strategy function before giving up.
+max_strategy_fix = 1 # default is 1. The maximum number of fixes attempted for a strategy function.
+max_retry = 3 # default is 3. The maximum number of retries allowed for creating a PBT before giving up.
+max_fix = 1 # default is 1. The maximum number of fixes allowed for creating a PBT before giving up.
+max_workers = 10 # default is 3. The maximum number of worker threads
+system_message = "You are a top coder who can analyze code and speak in a professional manner." # default is None
+
+
+[llm_servers]
+
+[llm_servers.ollama]
+name = "ollama" # name of the server. Need to be unique.
+api_key = "ollama" # api key for the server
+base_url = "http://localhost:11434/v1" # base url for the server
+concurrent = 3 # default is 1. The maximum number of concurrent requests that can be sent to the LLM server.
+model = "qwen2:72b-ctx16k"  # the model to be used on the LLM server. FROM qwen2:72b-instruct-q8_0, PARAMETER num_ctx 16384
+allow_request_type = ["short_answer", "long_answer"]  # default is all, the goal of the is to use different models for different steps depending on the request type. Such as using a model that is better at coding. This functionlity is not implemented yet.
+enabled = true # default is true
+retry = 10 # default is 4. The number of retry attempts if a request fails.
+
+
+# [llm_servers.openai_4o_mini]
+# name = "openai_4o_mini"
+# api_key = "***"
+# base_url = "https://api.openai.com/v1"
+# concurrent = 3
+# model = "gpt-4o-mini"
+# allow_request_type = ["short_answer", "long_answer"]

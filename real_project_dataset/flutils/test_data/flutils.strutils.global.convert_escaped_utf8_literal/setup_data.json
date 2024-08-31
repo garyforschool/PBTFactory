@@ -1,0 +1,1 @@
+{"name": "convert_escaped_utf8_literal", "signature": "def convert_escaped_utf8_literal(text: str) -> str", "filepath": "flutils/strutils.py", "package": "flutils.strutils", "classname": "global", "startline": 47, "endline": 53}

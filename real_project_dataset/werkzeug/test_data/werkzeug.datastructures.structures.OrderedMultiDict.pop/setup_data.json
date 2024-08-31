@@ -1,0 +1,1 @@
+{"name": "pop", "signature": "def pop(self, key, default=no value)", "filepath": "werkzeug/datastructures/structures.py", "package": "werkzeug.datastructures.structures", "classname": "OrderedMultiDict", "startline": 366, "endline": 375}

@@ -1,0 +1,1 @@
+{"name": "dump_header", "signature": "def dump_header(iterable: 'dict[str, t.Any] | t.Iterable[t.Any]') -> 'str'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 165, "endline": 177}

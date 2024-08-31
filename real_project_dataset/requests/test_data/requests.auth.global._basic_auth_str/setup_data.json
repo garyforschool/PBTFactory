@@ -1,0 +1,1 @@
+{"name": "_basic_auth_str", "signature": "def _basic_auth_str(username, password)", "filepath": "requests/auth.py", "package": "requests.auth", "classname": "global", "startline": 24, "endline": 48}

@@ -1,0 +1,4 @@
+def test_request_url_trims_leading_path_separators():
+    a = requests.adapters.HTTPAdapter()
+    p = requests.Request(method="GET", url="http://127.0.0.1:10000//v:h").prepare()
+    assert "/v:h" == a.request_url(p, {})

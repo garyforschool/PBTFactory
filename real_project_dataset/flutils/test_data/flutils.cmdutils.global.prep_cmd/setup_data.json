@@ -1,0 +1,1 @@
+{"name": "prep_cmd", "signature": "def prep_cmd(cmd: Sequence) -> Tuple[str, ...]", "filepath": "flutils/cmdutils.py", "package": "flutils.cmdutils", "classname": "global", "startline": 109, "endline": 134}

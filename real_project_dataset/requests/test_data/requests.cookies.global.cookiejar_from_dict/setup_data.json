@@ -1,0 +1,1 @@
+{"name": "cookiejar_from_dict", "signature": "def cookiejar_from_dict(cookie_dict, cookiejar=None, overwrite=True)", "filepath": "requests/cookies.py", "package": "requests.cookies", "classname": "global", "startline": 346, "endline": 354}

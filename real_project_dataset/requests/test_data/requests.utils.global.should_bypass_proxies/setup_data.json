@@ -1,0 +1,1 @@
+{"name": "should_bypass_proxies", "signature": "def should_bypass_proxies(url, no_proxy)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 455, "endline": 489}

@@ -1,0 +1,1 @@
+{"name": "normalize_path", "signature": "def normalize_path(path: Union[os.PathLike, pathlib.PosixPath, pathlib.WindowsPath, bytes, str]) -> pathlib.Path", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 206, "endline": 220}

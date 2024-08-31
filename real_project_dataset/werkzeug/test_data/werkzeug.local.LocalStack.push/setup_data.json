@@ -1,0 +1,1 @@
+{"name": "push", "signature": "def push(self, obj: 'T') -> 'list[T]'", "filepath": "werkzeug/local.py", "package": "werkzeug.local", "classname": "LocalStack", "startline": 75, "endline": 79}

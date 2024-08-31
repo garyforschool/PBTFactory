@@ -1,0 +1,1 @@
+{"name": "get_wsgi_response", "signature": "def get_wsgi_response(self, environ: 'WSGIEnvironment') -> 'tuple[t.Iterable[bytes], str, list[tuple[str, str]]]'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 238, "endline": 243}

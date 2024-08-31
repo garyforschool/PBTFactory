@@ -1,0 +1,1 @@
+{"name": "_parse_attr_map", "signature": "def _parse_attr_map(attr_map: Tuple[str, ...], fullname: str) -> flutils.moduleutils._CherryPickMap", "filepath": "flutils/moduleutils.py", "package": "flutils.moduleutils", "classname": "global", "startline": 117, "endline": 136}

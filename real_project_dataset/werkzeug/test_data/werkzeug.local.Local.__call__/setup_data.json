@@ -1,0 +1,1 @@
+{"name": "__call__", "signature": "def __call__(self, name: 'str', *, unbound_message: 'str | None' = None) -> 'LocalProxy[t.Any]'", "filepath": "werkzeug/local.py", "package": "werkzeug.local", "classname": "Local", "startline": 35, "endline": 38}

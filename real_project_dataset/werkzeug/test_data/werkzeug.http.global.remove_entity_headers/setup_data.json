@@ -1,0 +1,1 @@
+{"name": "remove_entity_headers", "signature": "def remove_entity_headers(headers: 'ds.Headers | list[tuple[str, str]]', allowed: 't.Iterable[str]' = ('expires', 'content-location')) -> 'None'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 607, "endline": 616}

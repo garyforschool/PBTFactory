@@ -1,0 +1,1 @@
+{"name": "iter_content", "signature": "def iter_content(self, chunk_size=1, decode_unicode=False)", "filepath": "requests/models.py", "package": "requests.models", "classname": "Response", "startline": 528, "endline": 561}

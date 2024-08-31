@@ -1,0 +1,1 @@
+{"name": "encode", "signature": "def encode(text: Union[str, collections.UserString], errors: Union[str, collections.UserString] = 'strict') -> Tuple[bytes, int]", "filepath": "flutils/codecs/raw_utf8_escape.py", "package": "flutils.codecs.raw_utf8_escape", "classname": "global", "startline": 21, "endline": 34}

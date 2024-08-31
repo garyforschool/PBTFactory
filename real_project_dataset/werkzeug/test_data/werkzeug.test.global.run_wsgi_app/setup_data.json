@@ -1,0 +1,1 @@
+{"name": "run_wsgi_app", "signature": "def run_wsgi_app(app: 'WSGIApplication', environ: 'WSGIEnvironment', buffered: 'bool' = False) -> 'tuple[t.Iterable[bytes], str, Headers]'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "global", "startline": 766, "endline": 803}

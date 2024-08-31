@@ -1,0 +1,1 @@
+{"name": "extract_zipped_paths", "signature": "def extract_zipped_paths(path)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 190, "endline": 209}

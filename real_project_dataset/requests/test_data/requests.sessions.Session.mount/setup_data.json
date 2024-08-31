@@ -1,0 +1,1 @@
+{"name": "mount", "signature": "def mount(self, prefix, adapter)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 426, "endline": 430}

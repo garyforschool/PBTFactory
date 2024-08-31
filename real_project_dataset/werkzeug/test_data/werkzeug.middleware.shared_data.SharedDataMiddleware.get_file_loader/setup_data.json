@@ -1,0 +1,1 @@
+{"name": "get_file_loader", "signature": "def get_file_loader(self, filename: 'str') -> '_TLoader'", "filepath": "werkzeug/middleware/shared_data.py", "package": "werkzeug.middleware.shared_data", "classname": "SharedDataMiddleware", "startline": 85, "endline": 86}

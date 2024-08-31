@@ -1,0 +1,1 @@
+{"name": "copy", "signature": "def copy(self)", "filepath": "requests/models.py", "package": "requests.models", "classname": "PreparedRequest", "startline": 274, "endline": 283}

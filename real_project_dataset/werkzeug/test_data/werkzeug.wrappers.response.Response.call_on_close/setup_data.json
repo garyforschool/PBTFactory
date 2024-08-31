@@ -1,0 +1,1 @@
+{"name": "call_on_close", "signature": "def call_on_close(self, func: 't.Callable[[], t.Any]') -> 't.Callable[[], t.Any]'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 65, "endline": 67}

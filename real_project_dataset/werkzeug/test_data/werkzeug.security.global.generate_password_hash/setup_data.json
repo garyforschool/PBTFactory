@@ -1,0 +1,1 @@
+{"name": "generate_password_hash", "signature": "def generate_password_hash(password: 'str', method: 'str' = 'scrypt', salt_length: 'int' = 16) -> 'str'", "filepath": "werkzeug/security.py", "package": "werkzeug.security", "classname": "global", "startline": 65, "endline": 70}

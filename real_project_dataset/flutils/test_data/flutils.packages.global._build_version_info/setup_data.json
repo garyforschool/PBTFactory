@@ -1,0 +1,1 @@
+{"name": "_build_version_info", "signature": "def _build_version_info(version: str) -> flutils.packages._VersionInfo", "filepath": "flutils/packages.py", "package": "flutils.packages", "classname": "global", "startline": 75, "endline": 84}

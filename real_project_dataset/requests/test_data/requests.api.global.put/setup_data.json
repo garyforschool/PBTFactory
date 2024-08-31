@@ -1,0 +1,1 @@
+{"name": "put", "signature": "def put(url, data=None, **kwargs)", "filepath": "requests/api.py", "package": "requests.api", "classname": "global", "startline": 36, "endline": 37}

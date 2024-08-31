@@ -1,0 +1,1 @@
+{"name": "get_auth_from_url", "signature": "def get_auth_from_url(url)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 613, "endline": 619}

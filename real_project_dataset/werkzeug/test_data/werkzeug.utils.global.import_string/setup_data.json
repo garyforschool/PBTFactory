@@ -1,0 +1,1 @@
+{"name": "import_string", "signature": "def import_string(import_name: 'str', silent: 'bool' = False) -> 't.Any'", "filepath": "werkzeug/utils.py", "package": "werkzeug.utils", "classname": "global", "startline": 292, "endline": 313}

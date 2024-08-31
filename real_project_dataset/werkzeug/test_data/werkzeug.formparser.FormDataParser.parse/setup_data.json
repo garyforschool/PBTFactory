@@ -1,0 +1,1 @@
+{"name": "parse", "signature": "def parse(self, stream: 't.IO[bytes]', mimetype: 'str', content_length: 'int | None', options: 'dict[str, str] | None' = None) -> 't_parse_result'", "filepath": "werkzeug/formparser.py", "package": "werkzeug.formparser", "classname": "FormDataParser", "startline": 113, "endline": 133}

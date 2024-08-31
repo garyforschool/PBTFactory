@@ -1,0 +1,1 @@
+{"name": "iter_rules", "signature": "def iter_rules(self, endpoint: 't.Any | None' = None) -> 't.Iterator[Rule]'", "filepath": "werkzeug/routing/map.py", "package": "werkzeug.routing.map", "classname": "Map", "startline": 90, "endline": 94}

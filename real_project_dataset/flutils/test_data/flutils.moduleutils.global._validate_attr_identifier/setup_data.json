@@ -1,0 +1,1 @@
+{"name": "_validate_attr_identifier", "signature": "def _validate_attr_identifier(identifier: str, line: str) -> str", "filepath": "flutils/moduleutils.py", "package": "flutils.moduleutils", "classname": "global", "startline": 46, "endline": 65}

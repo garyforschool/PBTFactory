@@ -1,0 +1,1 @@
+{"name": "_set_size", "signature": "def _set_size(fd: int, columns: int = 80, lines: int = 20) -> None", "filepath": "flutils/cmdutils.py", "package": "flutils.cmdutils", "classname": "global", "startline": 27, "endline": 29}

@@ -1,0 +1,1 @@
+{"name": "quote_etag", "signature": "def quote_etag(etag: 'str', weak: 'bool' = False) -> 'str'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 484, "endline": 490}

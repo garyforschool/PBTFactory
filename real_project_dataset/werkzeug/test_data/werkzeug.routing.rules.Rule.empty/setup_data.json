@@ -1,0 +1,1 @@
+{"name": "empty", "signature": "def empty(self) -> 'Rule'", "filepath": "werkzeug/routing/rules.py", "package": "werkzeug.routing.rules", "classname": "Rule", "startline": 281, "endline": 282}

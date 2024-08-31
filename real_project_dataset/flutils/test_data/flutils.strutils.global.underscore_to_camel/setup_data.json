@@ -1,0 +1,1 @@
+{"name": "underscore_to_camel", "signature": "def underscore_to_camel(text: str, lower_first: bool = True) -> str", "filepath": "flutils/strutils.py", "package": "flutils.strutils", "classname": "global", "startline": 56, "endline": 60}

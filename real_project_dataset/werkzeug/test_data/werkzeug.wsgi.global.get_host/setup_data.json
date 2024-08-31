@@ -1,0 +1,1 @@
+{"name": "get_host", "signature": "def get_host(environ: 'WSGIEnvironment', trusted_hosts: 't.Iterable[str] | None' = None) -> 'str'", "filepath": "werkzeug/wsgi.py", "package": "werkzeug.wsgi", "classname": "global", "startline": 51, "endline": 59}

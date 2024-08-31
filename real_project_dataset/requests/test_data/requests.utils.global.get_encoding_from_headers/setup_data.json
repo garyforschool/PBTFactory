@@ -1,0 +1,1 @@
+{"name": "get_encoding_from_headers", "signature": "def get_encoding_from_headers(headers)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 315, "endline": 325}

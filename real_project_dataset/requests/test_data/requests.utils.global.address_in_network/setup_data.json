@@ -1,0 +1,1 @@
+{"name": "address_in_network", "signature": "def address_in_network(ip, net)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 401, "endline": 406}

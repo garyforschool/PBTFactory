@@ -1,0 +1,1 @@
+{"name": "make_conditional", "signature": "def make_conditional(self, request_or_environ: 'WSGIEnvironment | Request', accept_ranges: 'bool | str' = False, complete_length: 'int | None' = None) -> 'Response'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 327, "endline": 355}

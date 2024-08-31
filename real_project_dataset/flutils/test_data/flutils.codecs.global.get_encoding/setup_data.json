@@ -1,0 +1,1 @@
+{"name": "get_encoding", "signature": "def get_encoding(name: Optional[str] = None, default: Optional[str] = 'UTF-8') -> str", "filepath": "flutils/codecs/__init__.py", "package": "flutils.codecs", "classname": "global", "startline": 19, "endline": 52}

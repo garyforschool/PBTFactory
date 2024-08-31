@@ -1,0 +1,1 @@
+{"name": "parse_cache_control_header", "signature": "def parse_cache_control_header(value: 'str | None', on_update: 't.Callable[[ds.cache_control._CacheControl], None] | None' = None, cls: 'type[_TAnyCC] | None' = None) -> '_TAnyCC'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 337, "endline": 346}

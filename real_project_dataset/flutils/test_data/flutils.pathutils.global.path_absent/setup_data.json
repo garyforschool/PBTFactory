@@ -1,0 +1,1 @@
+{"name": "path_absent", "signature": "def path_absent(path: Union[os.PathLike, pathlib.PosixPath, pathlib.WindowsPath, bytes, str]) -> None", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 234, "endline": 256}

@@ -1,0 +1,1 @@
+{"name": "iter_slices", "signature": "def iter_slices(string, slice_length)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 342, "endline": 348}

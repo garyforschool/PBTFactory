@@ -1,0 +1,1 @@
+{"name": "get_os_group", "signature": "def get_os_group(name: Union[str, int, NoneType] = None) -> grp.struct_group", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 165, "endline": 183}

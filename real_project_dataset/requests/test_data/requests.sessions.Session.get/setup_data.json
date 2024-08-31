@@ -1,0 +1,1 @@
+{"name": "get", "signature": "def get(self, url, **kwargs)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 333, "endline": 335}

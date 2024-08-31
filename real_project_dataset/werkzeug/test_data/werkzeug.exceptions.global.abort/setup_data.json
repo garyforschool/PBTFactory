@@ -1,0 +1,1 @@
+{"name": "abort", "signature": "def abort(status: 'int | Response', *args: 't.Any', **kwargs: 't.Any') -> 't.NoReturn'", "filepath": "werkzeug/exceptions.py", "package": "werkzeug.exceptions", "classname": "global", "startline": 481, "endline": 482}

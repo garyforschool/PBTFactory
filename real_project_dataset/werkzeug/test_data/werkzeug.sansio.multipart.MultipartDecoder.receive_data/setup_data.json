@@ -1,0 +1,1 @@
+{"name": "receive_data", "signature": "def receive_data(self, data: 'bytes | None') -> 'None'", "filepath": "werkzeug/sansio/multipart.py", "package": "werkzeug.sansio.multipart", "classname": "MultipartDecoder", "startline": 107, "endline": 116}

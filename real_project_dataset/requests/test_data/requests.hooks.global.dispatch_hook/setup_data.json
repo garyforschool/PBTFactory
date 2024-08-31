@@ -1,0 +1,1 @@
+{"name": "dispatch_hook", "signature": "def dispatch_hook(key, hooks, hook_data, **kwargs)", "filepath": "requests/hooks.py", "package": "requests.hooks", "classname": "global", "startline": 20, "endline": 30}

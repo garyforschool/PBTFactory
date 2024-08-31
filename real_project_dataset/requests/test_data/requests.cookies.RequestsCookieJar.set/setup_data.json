@@ -1,0 +1,1 @@
+{"name": "set", "signature": "def set(self, name, value, **kwargs)", "filepath": "requests/cookies.py", "package": "requests.cookies", "classname": "RequestsCookieJar", "startline": 139, "endline": 150}

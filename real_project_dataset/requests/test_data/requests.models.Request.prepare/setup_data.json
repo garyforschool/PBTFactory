@@ -1,0 +1,1 @@
+{"name": "prepare", "signature": "def prepare(self)", "filepath": "requests/models.py", "package": "requests.models", "classname": "Request", "startline": 222, "endline": 236}

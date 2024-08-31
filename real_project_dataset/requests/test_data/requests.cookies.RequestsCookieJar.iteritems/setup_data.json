@@ -1,0 +1,1 @@
+{"name": "iteritems", "signature": "def iteritems(self)", "filepath": "requests/cookies.py", "package": "requests.cookies", "classname": "RequestsCookieJar", "startline": 166, "endline": 168}

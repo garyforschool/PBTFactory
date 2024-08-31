@@ -1,0 +1,1 @@
+{"name": "chmod", "signature": "def chmod(path: Union[os.PathLike, pathlib.PosixPath, pathlib.WindowsPath, bytes, str], mode_file: Optional[int] = None, mode_dir: Optional[int] = None, include_parent: bool = False) -> None", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 27, "endline": 56}

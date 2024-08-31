@@ -1,0 +1,1 @@
+{"name": "_parse_content_type_header", "signature": "def _parse_content_type_header(header)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 298, "endline": 312}

@@ -1,0 +1,1 @@
+{"name": "close", "signature": "def close(self)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 422, "endline": 424}

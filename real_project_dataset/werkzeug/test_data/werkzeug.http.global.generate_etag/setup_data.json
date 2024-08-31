@@ -1,0 +1,1 @@
+{"name": "generate_etag", "signature": "def generate_etag(data: 'bytes') -> 'str'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 530, "endline": 531}

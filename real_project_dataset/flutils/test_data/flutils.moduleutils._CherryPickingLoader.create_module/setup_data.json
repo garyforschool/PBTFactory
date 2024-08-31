@@ -1,0 +1,1 @@
+{"name": "create_module", "signature": "def create_module(self, spec)", "filepath": "flutils/moduleutils.py", "package": "flutils.moduleutils", "classname": "_CherryPickingLoader", "startline": 168, "endline": 171}

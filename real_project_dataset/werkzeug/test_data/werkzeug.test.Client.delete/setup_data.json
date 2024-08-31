@@ -1,0 +1,1 @@
+{"name": "delete", "signature": "def delete(self, *args: 't.Any', **kw: 't.Any') -> 'TestResponse'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "Client", "startline": 734, "endline": 736}

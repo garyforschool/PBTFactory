@@ -1,0 +1,1 @@
+{"name": "requote_uri", "signature": "def requote_uri(uri)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 392, "endline": 398}

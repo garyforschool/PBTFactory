@@ -1,0 +1,1 @@
+{"name": "prepare_request", "signature": "def prepare_request(self, request)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 265, "endline": 290}

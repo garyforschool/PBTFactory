@@ -1,0 +1,1 @@
+{"name": "get", "signature": "def get(self, name, default=None, domain=None, path=None)", "filepath": "requests/cookies.py", "package": "requests.cookies", "classname": "RequestsCookieJar", "startline": 133, "endline": 137}

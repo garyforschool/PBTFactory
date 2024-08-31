@@ -1,0 +1,1 @@
+{"name": "open", "signature": "def open(self, *args: 't.Any', buffered: 'bool' = False, follow_redirects: 'bool' = False, **kwargs: 't.Any') -> 'TestResponse'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "Client", "startline": 676, "endline": 720}

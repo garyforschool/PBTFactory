@@ -1,0 +1,1 @@
+{"name": "prepend_scheme_if_needed", "signature": "def prepend_scheme_if_needed(url, new_scheme)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 598, "endline": 610}

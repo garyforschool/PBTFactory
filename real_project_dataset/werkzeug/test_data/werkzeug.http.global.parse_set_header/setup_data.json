@@ -1,0 +1,1 @@
+{"name": "parse_set_header", "signature": "def parse_set_header(value: 'str | None', on_update: 't.Callable[[ds.HeaderSet], None] | None' = None) -> 'ds.HeaderSet'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 385, "endline": 390}

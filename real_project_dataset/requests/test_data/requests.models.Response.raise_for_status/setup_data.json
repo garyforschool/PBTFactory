@@ -1,0 +1,1 @@
+{"name": "raise_for_status", "signature": "def raise_for_status(self)", "filepath": "requests/models.py", "package": "requests.models", "classname": "Response", "startline": 636, "endline": 654}

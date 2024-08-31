@@ -1,0 +1,1 @@
+{"name": "send", "signature": "def send(self, request, **kwargs)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 357, "endline": 396}

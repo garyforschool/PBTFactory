@@ -1,0 +1,1 @@
+{"name": "parse_dict_header", "signature": "def parse_dict_header(value: 'str') -> 'dict[str, str | None]'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 193, "endline": 214}

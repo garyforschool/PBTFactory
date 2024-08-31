@@ -1,0 +1,1 @@
+{"name": "lists", "signature": "def lists(self)", "filepath": "werkzeug/datastructures/structures.py", "package": "werkzeug.datastructures.structures", "classname": "CombinedMultiDict", "startline": 456, "endline": 461}

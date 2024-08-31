@@ -1,0 +1,1 @@
+{"name": "copy", "signature": "def copy(self)", "filepath": "werkzeug/datastructures/structures.py", "package": "werkzeug.datastructures.structures", "classname": "ImmutableDict", "startline": 492, "endline": 493}

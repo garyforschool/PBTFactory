@@ -1,0 +1,1 @@
+{"name": "to_native_string", "signature": "def to_native_string(string, encoding='ascii')", "filepath": "requests/_internal_utils.py", "package": "requests._internal_utils", "classname": "global", "startline": 21, "endline": 26}

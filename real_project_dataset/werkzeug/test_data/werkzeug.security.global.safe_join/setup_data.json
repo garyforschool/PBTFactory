@@ -1,0 +1,1 @@
+{"name": "safe_join", "signature": "def safe_join(directory: 'str', *pathnames: 'str') -> 'str | None'", "filepath": "werkzeug/security.py", "package": "werkzeug.security", "classname": "global", "startline": 81, "endline": 96}

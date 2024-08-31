@@ -1,0 +1,1 @@
+{"name": "parse_csp_header", "signature": "def parse_csp_header(value: 'str | None', on_update: 't.Callable[[ds.ContentSecurityPolicy], None] | None' = None, cls: 'type[_TAnyCSP] | None' = None) -> '_TAnyCSP'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 367, "endline": 382}

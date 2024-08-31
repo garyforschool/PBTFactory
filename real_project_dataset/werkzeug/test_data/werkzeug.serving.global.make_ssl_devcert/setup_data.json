@@ -1,0 +1,1 @@
+{"name": "make_ssl_devcert", "signature": "def make_ssl_devcert(base_path: 'str', host: 'str | None' = None, cn: 'str | None' = None) -> 'tuple[str, str]'", "filepath": "werkzeug/serving.py", "package": "werkzeug.serving", "classname": "global", "startline": 426, "endline": 446}

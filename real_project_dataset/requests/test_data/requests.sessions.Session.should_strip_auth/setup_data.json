@@ -1,0 +1,1 @@
+{"name": "should_strip_auth", "signature": "def should_strip_auth(self, old_url, new_url)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 87, "endline": 108}

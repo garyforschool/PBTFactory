@@ -1,0 +1,1 @@
+{"name": "_get_args_for_reloading", "signature": "def _get_args_for_reloading() -> 'list[str]'", "filepath": "werkzeug/_reloader.py", "package": "werkzeug._reloader", "classname": "global", "startline": 114, "endline": 148}

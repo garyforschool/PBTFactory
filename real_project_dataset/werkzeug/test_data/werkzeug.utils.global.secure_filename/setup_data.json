@@ -1,0 +1,1 @@
+{"name": "secure_filename", "signature": "def secure_filename(filename: 'str') -> 'str'", "filepath": "werkzeug/utils.py", "package": "werkzeug.utils", "classname": "global", "startline": 116, "endline": 131}

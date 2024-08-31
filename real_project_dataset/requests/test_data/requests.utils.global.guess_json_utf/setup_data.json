@@ -1,0 +1,1 @@
+{"name": "guess_json_utf", "signature": "def guess_json_utf(data)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 574, "endline": 595}

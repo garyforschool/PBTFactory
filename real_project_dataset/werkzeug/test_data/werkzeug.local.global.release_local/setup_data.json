@@ -1,0 +1,1 @@
+{"name": "release_local", "signature": "def release_local(local: 'Local | LocalStack[t.Any]') -> 'None'", "filepath": "werkzeug/local.py", "package": "werkzeug.local", "classname": "global", "startline": 20, "endline": 21}

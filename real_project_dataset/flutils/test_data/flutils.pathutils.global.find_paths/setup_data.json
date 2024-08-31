@@ -1,0 +1,1 @@
+{"name": "find_paths", "signature": "def find_paths(pattern: Union[os.PathLike, pathlib.PosixPath, pathlib.WindowsPath, bytes, str]) -> Generator[pathlib.Path, NoneType, NoneType]", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 159, "endline": 162}

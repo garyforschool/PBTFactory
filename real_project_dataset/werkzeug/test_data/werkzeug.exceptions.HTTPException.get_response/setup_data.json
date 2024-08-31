@@ -1,0 +1,1 @@
+{"name": "get_response", "signature": "def get_response(self, environ: 'WSGIEnvironment | WSGIRequest | None' = None, scope: 'dict[str, t.Any] | None' = None) -> 'Response'", "filepath": "werkzeug/exceptions.py", "package": "werkzeug.exceptions", "classname": "HTTPException", "startline": 112, "endline": 124}

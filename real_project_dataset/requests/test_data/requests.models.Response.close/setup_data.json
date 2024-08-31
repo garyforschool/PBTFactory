@@ -1,0 +1,1 @@
+{"name": "close", "signature": "def close(self)", "filepath": "requests/models.py", "package": "requests.models", "classname": "Response", "startline": 656, "endline": 661}

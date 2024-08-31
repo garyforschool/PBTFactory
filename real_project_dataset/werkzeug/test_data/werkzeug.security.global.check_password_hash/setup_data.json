@@ -1,0 +1,1 @@
+{"name": "check_password_hash", "signature": "def check_password_hash(pwhash: 'str', password: 'str') -> 'bool'", "filepath": "werkzeug/security.py", "package": "werkzeug.security", "classname": "global", "startline": 73, "endline": 78}

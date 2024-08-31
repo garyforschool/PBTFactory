@@ -1,0 +1,1 @@
+{"name": "find_longest_match", "signature": "def find_longest_match(self, alo=0, ahi=None, blo=0, bhi=None)", "startline": 78, "endline": 127, "package": "difflib_SequenceMatcher", "classname": "SequenceMatcher"}

@@ -1,0 +1,1 @@
+{"name": "get", "signature": "def get(self, *args: 't.Any', **kw: 't.Any') -> 'TestResponse'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "Client", "startline": 722, "endline": 724}

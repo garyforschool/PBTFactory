@@ -1,0 +1,1 @@
+{"name": "send_event", "signature": "def send_event(self, event: 'Event') -> 'bytes'", "filepath": "werkzeug/sansio/multipart.py", "package": "werkzeug.sansio.multipart", "classname": "MultipartEncoder", "startline": 221, "endline": 252}

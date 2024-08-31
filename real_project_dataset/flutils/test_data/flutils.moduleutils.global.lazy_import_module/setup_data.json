@@ -1,0 +1,1 @@
+{"name": "lazy_import_module", "signature": "def lazy_import_module(name: str, package: Optional[str] = None) -> module", "filepath": "flutils/moduleutils.py", "package": "flutils.moduleutils", "classname": "global", "startline": 333, "endline": 356}

@@ -1,0 +1,1 @@
+{"name": "to_header", "signature": "def to_header(self)", "filepath": "werkzeug/datastructures/range.py", "package": "werkzeug.datastructures.range", "classname": "Range", "startline": 51, "endline": 58}

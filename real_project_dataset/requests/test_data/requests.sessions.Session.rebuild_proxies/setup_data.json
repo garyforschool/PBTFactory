@@ -1,0 +1,1 @@
+{"name": "rebuild_proxies", "signature": "def rebuild_proxies(self, prepared_request, proxies)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 202, "endline": 214}

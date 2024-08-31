@@ -1,0 +1,1 @@
+{"name": "request_url", "signature": "def request_url(self, request, proxies)", "filepath": "requests/adapters.py", "package": "requests.adapters", "classname": "HTTPAdapter", "startline": 312, "endline": 325}

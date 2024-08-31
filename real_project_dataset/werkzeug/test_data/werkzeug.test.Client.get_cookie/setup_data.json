@@ -1,0 +1,1 @@
+{"name": "get_cookie", "signature": "def get_cookie(self, key: 'str', domain: 'str' = 'localhost', path: 'str' = '/') -> 'Cookie | None'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "Client", "startline": 559, "endline": 566}

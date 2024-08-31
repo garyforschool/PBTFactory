@@ -1,0 +1,1 @@
+{"name": "decode", "signature": "def decode(data: ByteString, errors: Union[str, collections.UserString] = 'strict') -> Tuple[str, int]", "filepath": "flutils/codecs/b64.py", "package": "flutils.codecs.b64", "classname": "global", "startline": 34, "endline": 38}

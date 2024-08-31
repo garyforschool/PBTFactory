@@ -1,0 +1,1 @@
+{"name": "set_cookie", "signature": "def set_cookie(self, key: 'str', value: 'str' = '', *, domain: 'str' = 'localhost', origin_only: 'bool' = True, path: 'str' = '/', **kwargs: 't.Any') -> 'None'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "Client", "startline": 568, "endline": 589}

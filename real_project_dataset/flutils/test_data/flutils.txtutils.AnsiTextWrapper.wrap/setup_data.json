@@ -1,0 +1,1 @@
+{"name": "wrap", "signature": "def wrap(self, text: str) -> List[str]", "filepath": "flutils/txtutils.py", "package": "flutils.txtutils", "classname": "AnsiTextWrapper", "startline": 192, "endline": 193}

@@ -1,0 +1,1 @@
+{"name": "get", "signature": "def get(url, params=None, **kwargs)", "filepath": "requests/api.py", "package": "requests.api", "classname": "global", "startline": 19, "endline": 20}

@@ -1,0 +1,1 @@
+{"name": "remove_hop_by_hop_headers", "signature": "def remove_hop_by_hop_headers(headers: 'ds.Headers | list[tuple[str, str]]') -> 'None'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 619, "endline": 622}

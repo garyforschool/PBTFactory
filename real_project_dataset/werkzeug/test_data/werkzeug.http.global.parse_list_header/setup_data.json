@@ -1,0 +1,1 @@
+{"name": "parse_list_header", "signature": "def parse_list_header(value: 'str') -> 'list[str]'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 184, "endline": 190}

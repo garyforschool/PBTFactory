@@ -1,0 +1,1 @@
+{"name": "get_etag", "signature": "def get_etag(self) -> 'tuple[str, bool] | tuple[None, None]'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 382, "endline": 383}

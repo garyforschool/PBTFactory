@@ -1,0 +1,1 @@
+{"name": "parse_range_header", "signature": "def parse_range_header(value: 'str | None', make_inclusive: 'bool' = True) -> 'ds.Range | None'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 402, "endline": 445}

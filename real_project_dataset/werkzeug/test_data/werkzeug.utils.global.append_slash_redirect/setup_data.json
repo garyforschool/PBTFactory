@@ -1,0 +1,1 @@
+{"name": "append_slash_redirect", "signature": "def append_slash_redirect(environ: 'WSGIEnvironment', code: 'int' = 308) -> 'Response'", "filepath": "werkzeug/utils.py", "package": "werkzeug.utils", "classname": "global", "startline": 154, "endline": 163}

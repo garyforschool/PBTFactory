@@ -1,0 +1,1 @@
+{"name": "get_description", "signature": "def get_description(self, environ: 'WSGIEnvironment | None' = None, scope: 'dict[str, t.Any] | None' = None) -> 'str'", "filepath": "werkzeug/exceptions.py", "package": "werkzeug.exceptions", "classname": "MethodNotAllowed", "startline": 81, "endline": 91}

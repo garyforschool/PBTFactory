@@ -1,0 +1,1 @@
+{"name": "request", "signature": "def request(self, method, url, params=None, data=None, headers=None, cookies=None, files=None, auth=None, timeout=None, allow_redirects=True, proxies=None, hooks=None, stream=None, verify=None, cert=None, json=None)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 292, "endline": 331}

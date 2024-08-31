@@ -1,0 +1,1 @@
+{"name": "_wsgi_encoding_dance", "signature": "def _wsgi_encoding_dance(s: 'str') -> 'str'", "filepath": "werkzeug/_internal.py", "package": "werkzeug._internal", "classname": "global", "startline": 31, "endline": 32}

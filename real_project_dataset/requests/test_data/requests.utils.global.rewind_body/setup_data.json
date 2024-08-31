@@ -1,0 +1,1 @@
+{"name": "rewind_body", "signature": "def rewind_body(prepared_request)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 652, "endline": 664}

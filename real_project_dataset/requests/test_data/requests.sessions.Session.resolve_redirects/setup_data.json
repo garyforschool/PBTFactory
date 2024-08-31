@@ -1,0 +1,1 @@
+{"name": "resolve_redirects", "signature": "def resolve_redirects(self, resp, req, stream=False, timeout=None, verify=True, cert=None, proxies=None, yield_requests=False, **adapter_kwargs)", "filepath": "requests/sessions.py", "package": "requests.sessions", "classname": "Session", "startline": 110, "endline": 189}

@@ -1,0 +1,1 @@
+{"name": "get_wsgi_headers", "signature": "def get_wsgi_headers(self, environ: 'WSGIEnvironment') -> 'Headers'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 186, "endline": 222}

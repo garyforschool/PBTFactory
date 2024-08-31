@@ -1,0 +1,1 @@
+{"name": "directory_present", "signature": "def directory_present(path: Union[os.PathLike, pathlib.PosixPath, pathlib.WindowsPath, bytes, str], mode: Optional[int] = None, user: Optional[str] = None, group: Optional[str] = None) -> pathlib.Path", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 90, "endline": 139}

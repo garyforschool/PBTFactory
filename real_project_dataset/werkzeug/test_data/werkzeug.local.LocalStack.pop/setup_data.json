@@ -1,0 +1,1 @@
+{"name": "pop", "signature": "def pop(self) -> 'T | None'", "filepath": "werkzeug/local.py", "package": "werkzeug.local", "classname": "LocalStack", "startline": 81, "endline": 87}

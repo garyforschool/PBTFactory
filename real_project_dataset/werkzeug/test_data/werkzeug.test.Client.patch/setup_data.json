@@ -1,0 +1,1 @@
+{"name": "patch", "signature": "def patch(self, *args: 't.Any', **kw: 't.Any') -> 'TestResponse'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "Client", "startline": 738, "endline": 740}

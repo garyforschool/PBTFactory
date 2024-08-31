@@ -1,0 +1,1 @@
+{"name": "add_etag", "signature": "def add_etag(self, overwrite: 'bool' = False, weak: 'bool' = False) -> 'None'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 357, "endline": 359}

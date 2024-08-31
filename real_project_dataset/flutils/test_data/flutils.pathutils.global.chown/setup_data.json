@@ -1,0 +1,1 @@
+{"name": "chown", "signature": "def chown(path: Union[os.PathLike, pathlib.PosixPath, pathlib.WindowsPath, bytes, str], user: Optional[str] = None, group: Optional[str] = None, include_parent: bool = False) -> None", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 59, "endline": 87}

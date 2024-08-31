@@ -1,0 +1,1 @@
+{"name": "parse_options_header", "signature": "def parse_options_header(value: 'str | None') -> 'tuple[str, dict[str, str]]'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 244, "endline": 279}

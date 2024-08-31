@@ -1,0 +1,1 @@
+{"name": "copy", "signature": "def copy(self)", "filepath": "requests/cookies.py", "package": "requests.cookies", "classname": "RequestsCookieJar", "startline": 268, "endline": 272}

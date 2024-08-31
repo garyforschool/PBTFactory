@@ -1,0 +1,1 @@
+{"name": "stream_encode_multipart", "signature": "def stream_encode_multipart(data: 't.Mapping[str, t.Any]', use_tempfile: 'bool' = True, threshold: 'int' = 512000, boundary: 'str | None' = None) -> 'tuple[t.IO[bytes], int, str]'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "global", "startline": 52, "endline": 122}

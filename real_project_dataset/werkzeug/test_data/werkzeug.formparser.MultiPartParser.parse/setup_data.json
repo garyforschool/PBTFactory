@@ -1,0 +1,1 @@
+{"name": "parse", "signature": "def parse(self, stream: 't.IO[bytes]', boundary: 'bytes', content_length: 'int | None') -> 'tuple[MultiDict[str, str], MultiDict[str, FileStorage]]'", "filepath": "werkzeug/formparser.py", "package": "werkzeug.formparser", "classname": "MultiPartParser", "startline": 226, "endline": 274}

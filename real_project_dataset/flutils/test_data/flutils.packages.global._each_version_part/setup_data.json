@@ -1,0 +1,1 @@
+{"name": "_each_version_part", "signature": "def _each_version_part(ver_obj: distutils.version.StrictVersion) -> Generator[flutils.packages._VersionPart, NoneType, NoneType]", "filepath": "flutils/packages.py", "package": "flutils.packages", "classname": "global", "startline": 38, "endline": 64}

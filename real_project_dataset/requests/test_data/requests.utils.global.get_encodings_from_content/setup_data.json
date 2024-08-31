@@ -1,0 +1,1 @@
+{"name": "get_encodings_from_content", "signature": "def get_encodings_from_content(content)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 281, "endline": 295}

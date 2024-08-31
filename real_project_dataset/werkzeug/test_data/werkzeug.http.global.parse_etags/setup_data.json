@@ -1,0 +1,1 @@
+{"name": "parse_etags", "signature": "def parse_etags(value: 'str | None') -> 'ds.ETags'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 506, "endline": 527}

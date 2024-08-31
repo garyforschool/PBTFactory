@@ -1,0 +1,1 @@
+{"name": "encode", "signature": "def encode(text: Union[str, collections.UserString], errors: Union[str, collections.UserString] = 'strict') -> Tuple[bytes, int]", "filepath": "flutils/codecs/b64.py", "package": "flutils.codecs.b64", "classname": "global", "startline": 11, "endline": 31}

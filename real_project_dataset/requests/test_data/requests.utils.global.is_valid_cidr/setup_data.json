@@ -1,0 +1,1 @@
+{"name": "is_valid_cidr", "signature": "def is_valid_cidr(string_network)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 422, "endline": 436}

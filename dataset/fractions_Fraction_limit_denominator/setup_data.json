@@ -1,0 +1,1 @@
+{"name": "limit_denominator", "signature": "def limit_denominator(self, max_denominator=1000000)", "startline": 122, "endline": 142, "package": "fractions_Fraction", "classname": "Fraction"}

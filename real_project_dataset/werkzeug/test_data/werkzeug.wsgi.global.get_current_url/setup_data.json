@@ -1,0 +1,1 @@
+{"name": "get_current_url", "signature": "def get_current_url(environ: 'WSGIEnvironment', root_only: 'bool' = False, strip_querystring: 'bool' = False, host_only: 'bool' = False, trusted_hosts: 't.Iterable[str] | None' = None) -> 'str'", "filepath": "werkzeug/wsgi.py", "package": "werkzeug.wsgi", "classname": "global", "startline": 20, "endline": 37}

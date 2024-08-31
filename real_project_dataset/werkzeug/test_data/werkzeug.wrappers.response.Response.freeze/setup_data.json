@@ -1,0 +1,1 @@
+{"name": "freeze", "signature": "def freeze(self) -> 'None'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 181, "endline": 184}

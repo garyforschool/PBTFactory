@@ -1,0 +1,1 @@
+{"name": "get_environ", "signature": "def get_environ(self) -> 'WSGIEnvironment'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "EnvironBuilder", "startline": 457, "endline": 522}

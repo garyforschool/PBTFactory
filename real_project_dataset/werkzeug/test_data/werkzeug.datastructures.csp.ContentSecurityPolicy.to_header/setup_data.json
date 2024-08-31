@@ -1,0 +1,1 @@
+{"name": "to_header", "signature": "def to_header(self)", "filepath": "werkzeug/datastructures/csp.py", "package": "werkzeug.datastructures.csp", "classname": "ContentSecurityPolicy", "startline": 59, "endline": 62}

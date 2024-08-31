@@ -1,0 +1,1 @@
+{"name": "select_proxy", "signature": "def select_proxy(url, proxies)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 499, "endline": 515}

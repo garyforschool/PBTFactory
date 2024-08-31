@@ -1,0 +1,1 @@
+{"name": "parse_date", "signature": "def parse_date(value: 'str | None') -> 'datetime | None'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 534, "endline": 543}

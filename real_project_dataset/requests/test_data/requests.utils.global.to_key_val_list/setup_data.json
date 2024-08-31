@@ -1,0 +1,1 @@
+{"name": "to_key_val_list", "signature": "def to_key_val_list(value)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 232, "endline": 239}

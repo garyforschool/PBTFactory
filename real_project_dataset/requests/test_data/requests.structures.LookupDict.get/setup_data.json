@@ -1,0 +1,1 @@
+{"name": "get", "signature": "def get(self, key, default=None)", "filepath": "requests/structures.py", "package": "requests.structures", "classname": "LookupDict", "startline": 64, "endline": 65}

@@ -1,0 +1,1 @@
+{"name": "parse_converter_args", "signature": "def parse_converter_args(argstr: 'str') -> 'tuple[tuple[t.Any, ...], dict[str, t.Any]]'", "filepath": "werkzeug/routing/rules.py", "package": "werkzeug.routing.rules", "classname": "global", "startline": 94, "endline": 114}

@@ -1,0 +1,1 @@
+{"name": "create_environ", "signature": "def create_environ(*args: 't.Any', **kwargs: 't.Any') -> 'WSGIEnvironment'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "global", "startline": 758, "endline": 763}

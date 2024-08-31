@@ -1,0 +1,1 @@
+{"name": "_get_codec_info", "signature": "def _get_codec_info(name: str) -> Optional[codecs.CodecInfo]", "filepath": "flutils/codecs/raw_utf8_escape.py", "package": "flutils.codecs.raw_utf8_escape", "classname": "global", "startline": 52, "endline": 56}

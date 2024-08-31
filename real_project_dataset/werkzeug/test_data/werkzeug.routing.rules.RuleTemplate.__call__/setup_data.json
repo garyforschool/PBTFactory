@@ -1,0 +1,1 @@
+{"name": "__call__", "signature": "def __call__(self, *args: 't.Any', **kwargs: 't.Any') -> 'RuleTemplateFactory'", "filepath": "werkzeug/routing/rules.py", "package": "werkzeug.routing.rules", "classname": "RuleTemplate", "startline": 170, "endline": 171}

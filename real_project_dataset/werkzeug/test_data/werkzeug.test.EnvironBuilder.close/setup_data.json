@@ -1,0 +1,1 @@
+{"name": "close", "signature": "def close(self) -> 'None'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "EnvironBuilder", "startline": 443, "endline": 455}

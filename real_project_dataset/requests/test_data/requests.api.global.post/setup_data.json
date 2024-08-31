@@ -1,0 +1,1 @@
+{"name": "post", "signature": "def post(url, data=None, json=None, **kwargs)", "filepath": "requests/api.py", "package": "requests.api", "classname": "global", "startline": 32, "endline": 33}

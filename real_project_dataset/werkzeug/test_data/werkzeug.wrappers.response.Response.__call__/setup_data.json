@@ -1,0 +1,1 @@
+{"name": "__call__", "signature": "def __call__(self, environ: 'WSGIEnvironment', start_response: 'StartResponse') -> 't.Iterable[bytes]'", "filepath": "werkzeug/wrappers/response.py", "package": "werkzeug.wrappers.response", "classname": "Response", "startline": 245, "endline": 250}

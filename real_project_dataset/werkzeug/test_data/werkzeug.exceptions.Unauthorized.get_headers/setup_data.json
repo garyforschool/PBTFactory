@@ -1,0 +1,1 @@
+{"name": "get_headers", "signature": "def get_headers(self, environ: 'WSGIEnvironment | None' = None, scope: 'dict[str, t.Any] | None' = None) -> 'list[tuple[str, str]]'", "filepath": "werkzeug/exceptions.py", "package": "werkzeug.exceptions", "classname": "Unauthorized", "startline": 199, "endline": 207}

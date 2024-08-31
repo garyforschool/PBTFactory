@@ -1,0 +1,1 @@
+{"name": "get_request", "signature": "def get_request(self, cls: 'type[Request] | None' = None) -> 'Request'", "filepath": "werkzeug/test.py", "package": "werkzeug.test", "classname": "EnvironBuilder", "startline": 524, "endline": 527}

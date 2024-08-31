@@ -1,0 +1,1 @@
+{"name": "send_from_directory", "signature": "def send_from_directory(directory: 'os.PathLike[str] | str', path: 'os.PathLike[str] | str', environ: 'WSGIEnvironment', **kwargs: 't.Any') -> 'Response'", "filepath": "werkzeug/utils.py", "package": "werkzeug.utils", "classname": "global", "startline": 276, "endline": 289}

@@ -1,0 +1,1 @@
+{"name": "lower_items", "signature": "def lower_items(self)", "filepath": "requests/structures.py", "package": "requests.structures", "classname": "CaseInsensitiveDict", "startline": 35, "endline": 36}

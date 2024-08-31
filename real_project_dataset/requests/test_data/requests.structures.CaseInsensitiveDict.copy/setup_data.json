@@ -1,0 +1,1 @@
+{"name": "copy", "signature": "def copy(self)", "filepath": "requests/structures.py", "package": "requests.structures", "classname": "CaseInsensitiveDict", "startline": 45, "endline": 46}

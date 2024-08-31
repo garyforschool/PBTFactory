@@ -1,0 +1,1 @@
+{"name": "get_host", "signature": "def get_host(scheme: 'str', host_header: 'str | None', server: 'tuple[str, int | None] | None' = None, trusted_hosts: 't.Iterable[str] | None' = None) -> 'str'", "filepath": "werkzeug/sansio/utils.py", "package": "werkzeug.sansio.utils", "classname": "global", "startline": 33, "endline": 53}

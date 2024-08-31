@@ -1,0 +1,1 @@
+{"name": "uri_to_iri", "signature": "def uri_to_iri(uri: 'str') -> 'str'", "filepath": "werkzeug/urls.py", "package": "werkzeug.urls", "classname": "global", "startline": 45, "endline": 64}

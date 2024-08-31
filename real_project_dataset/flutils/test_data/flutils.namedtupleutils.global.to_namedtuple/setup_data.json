@@ -1,0 +1,1 @@
+{"name": "to_namedtuple", "signature": "def to_namedtuple(obj: Union[List, collections.abc.Mapping, NamedTuple, types.SimpleNamespace, Tuple]) -> Union[NamedTuple, Tuple, List]", "filepath": "flutils/namedtupleutils.py", "package": "flutils.namedtupleutils", "classname": "global", "startline": 12, "endline": 13}

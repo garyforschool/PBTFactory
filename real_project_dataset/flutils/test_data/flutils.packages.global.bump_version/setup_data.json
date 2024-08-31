@@ -1,0 +1,1 @@
+{"name": "bump_version", "signature": "def bump_version(version: str, position: int = 2, pre_release: Optional[str] = None) -> str", "filepath": "flutils/packages.py", "package": "flutils.packages", "classname": "global", "startline": 135, "endline": 182}

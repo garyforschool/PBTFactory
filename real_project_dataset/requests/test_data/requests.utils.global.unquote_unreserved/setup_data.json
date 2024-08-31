@@ -1,0 +1,1 @@
+{"name": "unquote_unreserved", "signature": "def unquote_unreserved(uri)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 374, "endline": 389}

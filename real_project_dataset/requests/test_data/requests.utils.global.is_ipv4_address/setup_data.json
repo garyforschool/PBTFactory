@@ -1,0 +1,1 @@
+{"name": "is_ipv4_address", "signature": "def is_ipv4_address(string_ip)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 414, "endline": 419}

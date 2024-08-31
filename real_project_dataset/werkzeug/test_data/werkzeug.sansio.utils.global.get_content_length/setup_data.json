@@ -1,0 +1,1 @@
+{"name": "get_content_length", "signature": "def get_content_length(http_content_length: 'str | None' = None, http_transfer_encoding: 'str | None' = None) -> 'int | None'", "filepath": "werkzeug/sansio/utils.py", "package": "werkzeug.sansio.utils", "classname": "global", "startline": 78, "endline": 86}

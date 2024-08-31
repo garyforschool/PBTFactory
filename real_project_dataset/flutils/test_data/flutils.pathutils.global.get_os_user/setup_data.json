@@ -1,0 +1,1 @@
+{"name": "get_os_user", "signature": "def get_os_user(name: Union[str, int, NoneType] = None) -> pwd.struct_passwd", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 186, "endline": 203}

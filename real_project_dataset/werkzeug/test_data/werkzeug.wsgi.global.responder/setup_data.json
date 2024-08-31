@@ -1,0 +1,1 @@
+{"name": "responder", "signature": "def responder(f: 't.Callable[..., WSGIApplication]') -> 'WSGIApplication'", "filepath": "werkzeug/wsgi.py", "package": "werkzeug.wsgi", "classname": "global", "startline": 16, "endline": 17}

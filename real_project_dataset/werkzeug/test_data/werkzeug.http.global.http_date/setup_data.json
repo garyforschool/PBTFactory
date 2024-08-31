@@ -1,0 +1,1 @@
+{"name": "http_date", "signature": "def http_date(timestamp: 'datetime | date | int | float | struct_time | None' = None) -> 'str'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 546, "endline": 557}

@@ -1,0 +1,1 @@
+{"name": "unicode_is_ascii", "signature": "def unicode_is_ascii(u_string)", "filepath": "requests/_internal_utils.py", "package": "requests._internal_utils", "classname": "global", "startline": 29, "endline": 35}

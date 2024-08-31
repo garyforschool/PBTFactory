@@ -1,0 +1,1 @@
+{"name": "set_environ", "signature": "def set_environ(env_name, value)", "filepath": "requests/utils.py", "package": "requests.utils", "classname": "global", "startline": 439, "endline": 452}

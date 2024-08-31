@@ -1,0 +1,1 @@
+{"name": "redirect", "signature": "def redirect(location: 'str', code: 'int' = 302, Response: 'type[Response] | None' = None) -> 'Response'", "filepath": "werkzeug/utils.py", "package": "werkzeug.utils", "classname": "global", "startline": 134, "endline": 151}

@@ -1,0 +1,1 @@
+{"name": "exists_as", "signature": "def exists_as(path: Union[os.PathLike, pathlib.PosixPath, pathlib.WindowsPath, bytes, str]) -> str", "filepath": "flutils/pathutils.py", "package": "flutils.pathutils", "classname": "global", "startline": 142, "endline": 156}

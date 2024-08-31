@@ -1,0 +1,1 @@
+{"name": "_expand_attr_map", "signature": "def _expand_attr_map(attr_map: Tuple[str, ...]) -> Generator[flutils.moduleutils._AttrMapping, NoneType, NoneType]", "filepath": "flutils/moduleutils.py", "package": "flutils.moduleutils", "classname": "global", "startline": 94, "endline": 99}

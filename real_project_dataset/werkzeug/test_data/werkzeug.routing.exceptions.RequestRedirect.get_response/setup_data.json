@@ -1,0 +1,1 @@
+{"name": "get_response", "signature": "def get_response(self, environ: 'WSGIEnvironment | Request | None' = None, scope: 'dict[str, t.Any] | None' = None) -> 'Response'", "filepath": "werkzeug/routing/exceptions.py", "package": "werkzeug.routing.exceptions", "classname": "RequestRedirect", "startline": 28, "endline": 33}

@@ -1,0 +1,1 @@
+{"name": "get_opcodes", "signature": "def get_opcodes(self)", "startline": 160, "endline": 178, "package": "difflib_SequenceMatcher", "classname": "SequenceMatcher"}

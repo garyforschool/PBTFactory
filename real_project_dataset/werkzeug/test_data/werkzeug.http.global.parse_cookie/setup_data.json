@@ -1,0 +1,1 @@
+{"name": "parse_cookie", "signature": "def parse_cookie(header: 'WSGIEnvironment | str | None', cls: 'type[ds.MultiDict[str, str]] | None' = None) -> 'ds.MultiDict[str, str]'", "filepath": "werkzeug/http.py", "package": "werkzeug.http", "classname": "global", "startline": 633, "endline": 643}

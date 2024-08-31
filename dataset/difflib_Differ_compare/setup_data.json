@@ -1,0 +1,1 @@
+{"name": "compare", "signature": "def compare(self, a, b)", "startline": 263, "endline": 276, "package": "difflib_Differ", "classname": "Differ"}

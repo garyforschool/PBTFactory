@@ -1,0 +1,1 @@
+{"name": "wrap_file", "signature": "def wrap_file(environ: 'WSGIEnvironment', file: 't.IO[bytes]', buffer_size: 'int' = 8192) -> 't.Iterable[bytes]'", "filepath": "werkzeug/wsgi.py", "package": "werkzeug.wsgi", "classname": "global", "startline": 128, "endline": 131}

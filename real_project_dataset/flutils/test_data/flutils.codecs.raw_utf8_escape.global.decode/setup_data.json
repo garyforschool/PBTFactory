@@ -1,0 +1,1 @@
+{"name": "decode", "signature": "def decode(data: ByteString, errors: Union[str, collections.UserString] = 'strict') -> Tuple[str, int]", "filepath": "flutils/codecs/raw_utf8_escape.py", "package": "flutils.codecs.raw_utf8_escape", "classname": "global", "startline": 37, "endline": 46}

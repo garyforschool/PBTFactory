@@ -1,0 +1,1 @@
+{"name": "isoformat", "signature": "def isoformat(self, sep=\"T\", timespec=\"auto\")", "startline": 1532, "endline": 1545, "package": "datetime_datetime", "classname": "datetime"}

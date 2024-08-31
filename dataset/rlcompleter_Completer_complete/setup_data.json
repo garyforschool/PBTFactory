@@ -1,0 +1,1 @@
+{"name": "complete", "signature": "def complete(self, text, state)", "startline": 22, "endline": 43, "package": "rlcompleter_Completer", "classname": "Completer"}
