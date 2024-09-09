@@ -53,11 +53,8 @@ result_folder\
 │   │       │   └── tests # Important\
 │   │       │       └── test_*.py
 
-Note: The `result_folder` occupies 2.6 GB, with the majority of the storage consumed by the `result/cov_report` directory. This directory is primarily intended for human-readable reports and is no longer necessary once `parsed_report.json` has been created. To free up space, you can delete the `cov_report` directory using the following command:
+Note: The `result_folder` occupies 2.6 GB, with the majority of the storage consumed by the `result/cov_report` directory. This directory is primarily intended for human-readable reports and is no longer necessary once `parsed_report.json` has been created.
 
-```bash
-find result_pub -type d -name "cov_report" -exec rm -r {} +
-```
 
 ##### Run the program 
 
